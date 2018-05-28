@@ -1,0 +1,33 @@
+[
+    {
+        "id" : 1,
+        "name": "Pokemon",
+        "quyen": 1,
+        "tel": 19001789
+    },
+    {
+        "id" : 2,
+        "name": "Naruto",
+        "quyen": 2,
+        "tel": 32247347
+    },
+    {
+        "id" : 3,
+        "name": "Ninja Go",
+        "quyen": 3,
+        "tel": 2453678
+    },
+    {
+        "id" : 4,
+        "name": "Ninja Tem",
+        "quyen": 3,
+        "tel": 2453678
+    },
+    {
+        "id" : 5,
+        "name": "Ninja Hurt",
+        "quyen": 3,
+        "tel": 2453678
+    }
+    
+]
